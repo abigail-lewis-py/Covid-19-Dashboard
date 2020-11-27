@@ -3,5 +3,4 @@ pandas
 uk_covid19
 voila
 ipywidgets
-json
 numpy
